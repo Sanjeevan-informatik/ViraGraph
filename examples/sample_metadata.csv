@@ -1,0 +1,5 @@
+sample_id,virus_name,genome_type,host_id,environment,temperature_c,source
+synthetic_variant_1,SyntheticPhage,dsDNA,HostA,water,20,synthetic
+synthetic_variant_2,SyntheticPhage,dsDNA,HostA,water,20,synthetic
+synthetic_variant_3,SyntheticPhage,dsDNA,HostB,water,22,synthetic
+synthetic_variant_4,SyntheticPhage,dsDNA,HostB,water,22,synthetic
